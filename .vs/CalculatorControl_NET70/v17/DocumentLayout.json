@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Public\\Documents\\Syncfusion\\Windows\\23.1.36\\inputcontrols\\Calculator\\CS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E27908A-B29A-43E0-8C7E-8F2B8AF6932C}|CalculatorControl_NET70.csproj|c:\\users\\public\\documents\\syncfusion\\windows\\23.1.36\\inputcontrols\\calculator\\cs\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E27908A-B29A-43E0-8C7E-8F2B8AF6932C}|CalculatorControl_NET70.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Public\\Documents\\Syncfusion\\Windows\\23.1.36\\inputcontrols\\Calculator\\CS\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\Public\\Documents\\Syncfusion\\Windows\\23.1.36\\inputcontrols\\Calculator\\CS\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T14:28:42.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

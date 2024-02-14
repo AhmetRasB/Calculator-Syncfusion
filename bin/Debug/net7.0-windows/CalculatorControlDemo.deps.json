@@ -1,0 +1,151 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CalculatorControlDemo/1.0.0": {
+        "dependencies": {
+          "DemoCommon": "23.1.36.0",
+          "Syncfusion.Grid.Windows": "23.1.36.0",
+          "Syncfusion.Licensing": "23.1.36.0",
+          "Syncfusion.Office2019Theme.WinForms": "23.1.36.0",
+          "Syncfusion.Shared.Base": "23.1.36.0",
+          "Syncfusion.Shared.Windows": "23.1.36.0",
+          "Syncfusion.SpellChecker.Base": "23.1.36.0",
+          "Syncfusion.Tools.Base": "23.1.36.0",
+          "Syncfusion.Tools.Windows": "23.1.36.0"
+        },
+        "runtime": {
+          "CalculatorControlDemo.dll": {}
+        }
+      },
+      "DemoCommon/23.1.36.0": {
+        "runtime": {
+          "DemoCommon.dll": {
+            "assemblyVersion": "23.1.36.0",
+            "fileVersion": "23.1.36.0"
+          }
+        }
+      },
+      "Syncfusion.Grid.Windows/23.1.36.0": {
+        "runtime": {
+          "Syncfusion.Grid.Windows.dll": {
+            "assemblyVersion": "23.1.36.0",
+            "fileVersion": "23.1.36.0"
+          }
+        }
+      },
+      "Syncfusion.Licensing/23.1.36.0": {
+        "runtime": {
+          "Syncfusion.Licensing.dll": {
+            "assemblyVersion": "23.1.36.0",
+            "fileVersion": "23.1.36.0"
+          }
+        }
+      },
+      "Syncfusion.Office2019Theme.WinForms/23.1.36.0": {
+        "runtime": {
+          "Syncfusion.Office2019Theme.WinForms.dll": {
+            "assemblyVersion": "23.1.36.0",
+            "fileVersion": "23.1.36.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.Base/23.1.36.0": {
+        "runtime": {
+          "Syncfusion.Shared.Base.dll": {
+            "assemblyVersion": "23.1.36.0",
+            "fileVersion": "23.1.36.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.Windows/23.1.36.0": {
+        "runtime": {
+          "Syncfusion.Shared.Windows.dll": {
+            "assemblyVersion": "23.1.36.0",
+            "fileVersion": "23.1.36.0"
+          }
+        }
+      },
+      "Syncfusion.SpellChecker.Base/23.1.36.0": {
+        "runtime": {
+          "Syncfusion.SpellChecker.Base.dll": {
+            "assemblyVersion": "23.1.36.0",
+            "fileVersion": "23.1.36.0"
+          }
+        }
+      },
+      "Syncfusion.Tools.Base/23.1.36.0": {
+        "runtime": {
+          "Syncfusion.Tools.Base.dll": {
+            "assemblyVersion": "23.1.36.0",
+            "fileVersion": "23.1.36.0"
+          }
+        }
+      },
+      "Syncfusion.Tools.Windows/23.1.36.0": {
+        "runtime": {
+          "Syncfusion.Tools.Windows.dll": {
+            "assemblyVersion": "23.1.36.0",
+            "fileVersion": "23.1.36.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorControlDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoCommon/23.1.36.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Grid.Windows/23.1.36.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Licensing/23.1.36.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Office2019Theme.WinForms/23.1.36.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Shared.Base/23.1.36.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Shared.Windows/23.1.36.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.SpellChecker.Base/23.1.36.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Tools.Base/23.1.36.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Tools.Windows/23.1.36.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
